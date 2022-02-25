@@ -1,0 +1,11 @@
+So basically you need to import the bookmark into the bookmark tab, its not super difficult
+Click on the 3 dots (settings) 
+Click on bookmarks
+Click on bookmark manager
+Click on the 3 dots inside the blue bar
+Click import bookmarks
+Double click on the file you downloaded from here
+Then you should have a bookmark titled "Imported" or something
+Load up a google snake game, and then click the folder, then click the moremenue.html thing, and the menu should pop up
+Make sure you die once before clicking the bookmark, and make sure you are not in the customization menu as you do it,
+You should be on the death screen, not the screen when you click on the cogwheel.
