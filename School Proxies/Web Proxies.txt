@@ -1,0 +1,21 @@
+DISCLAIMER - SOME MIGHT WORK AND SOME MIGHT NOT
+https://proxyscrape.com/web-proxy
+https://www.proxysite.com
+https://www.kproxy.com
+homeworkistrash.ml
+https://actuallyhistory.com (wait till load, click apps, then launch google)
+https://googleweblight.com/?lite_url=https://discord.com (REPLACE "discord.com" WITH ANYTHING U WANT
+zophar.net/proxy
+anonymouse.org/anonwww.html
+
+-Another Strategy-
+Sometimes, Website blocking services block port 88, which is commonly known as "HTTP", A simple yet
+effective bypass can occur if you add an s at the end, making it "HTTPS" which would make it switch
+to port 443.
+
+-Another strategy-
+Go to Google Translate page. Choose a source language that you do not speak, here it’s “Spanish”.
+Choose the destination language as the one you speak, here it’s English.
+Enter the URL of the website you want to access in the source and then wait for it to translate it.
+https://translate.google.com/
+
